@@ -1,6 +1,6 @@
 from datetime import datetime
 
-# Lista en memoria para guardar los medicamentos (en fases futuras pasará a JSON)
+
 medicamentos = []
 
 def mostrar_menu():
